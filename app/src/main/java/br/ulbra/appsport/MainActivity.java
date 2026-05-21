@@ -50,10 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if(passosTexto.isEmpty()){
 
-                    txtResultado.setText(
-                            "Digite a quantidade de passos!"
-                    );
-
+                    txtResultado.setText("Digite a quantidade de passos!");
                     return;
                 }
 
@@ -85,12 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }
 
-                txtResultado.setText(
-                        "Distância percorrida: " +
-                                String.format("%.2f", distancia) +
-                                " metros"
-                );
-
+                txtResultado.setText("Distância percorrida: " + String.format("%.2f", distancia) + " metros");
             }
         });
 
