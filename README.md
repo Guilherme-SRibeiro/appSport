@@ -62,10 +62,9 @@ Manipulação de componentes
 Estruturas condicionais
 Eventos de clique
 Cálculos em Java
-Autor
 
-Guilherme Silveira Ribeiro
-
+Autor: Guilherme Silveira Ribeiro
+ 
 Resultado Esperado
 
 O usuário informa os passos, escolhe o tipo do passo e o aplicativo retorna a distância percorrida em metros.
