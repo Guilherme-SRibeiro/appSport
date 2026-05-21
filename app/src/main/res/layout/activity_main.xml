@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/azul"
+    android:background="@color/blue"
     tools:context=".MainActivity">
 
     <ImageView
@@ -113,7 +113,6 @@
             android:textColor="@color/white"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textSize="20sp" />
-
     </RadioGroup>
 
 

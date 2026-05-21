@@ -44,9 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
         btnCalcular.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-
-                String passosTexto = edtPassos.getText().toString();
+            public void onClick(View v) {String passosTexto = edtPassos.getText().toString();
 
                 if(passosTexto.isEmpty()){
 
